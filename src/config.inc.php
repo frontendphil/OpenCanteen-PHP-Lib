@@ -23,9 +23,9 @@
      **/
 
     define("HOST", "http://fb10web20.hpi.uni-potsdam.de/food/rest");
-    define("APIKEY", "81");
-    define("APPLICATIONSECRET", "foobar");
-    define("CALLBACK", "/");
+    define("APIKEY", "");
+    define("APPLICATIONSECRET", "");
+    define("CALLBACK", "");
     
     define("CREATED", 201);
     define("OK", 200);
